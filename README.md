@@ -1,2 +1,2 @@
 # Git-Demo
-Its a beginning of using Github
+Its a beginning of using Github.
